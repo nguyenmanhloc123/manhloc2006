@@ -1,0 +1,145 @@
+body {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding: 20px;
+}
+.block{
+    width: 100%;
+    height: 150px;
+}
+.box1{
+    background-color: white;
+    width: 12%;
+    height: 150px;
+    float: left;
+}
+.box2{
+    background-color: white;
+    width: 10%;
+    height: 150px;
+    float: left;
+}
+.box3{
+    background-color: white;
+    width: 12%;
+    height: 150px;
+    float: left;
+}
+.box4{
+    background-color: white;
+    width: 10%;
+    height: 150px;
+    float: left;
+}
+.box5{
+    background-color: white;
+    width: 12%;
+    height: 150px;
+    float: left;
+}
+.box6{
+    background-color: white;
+    width: 6%;
+    height: 150px;
+    float: left;
+}
+.box7{
+    background-color: white;
+    width: 6%;
+    height: 150px;
+    float: left;
+}
+button{
+    background-color: rgb(58, 58, 219);
+    color: white;
+    border: none;
+
+}
+.box8{
+    background-color: white;
+    width: 6%;
+    height: 150px;
+    float: right;
+}
+.box9{
+    height:600px ;
+    width: 100%;
+}
+.box10{
+    background-color: white;
+    width:18%;
+height: 300px;
+float: left;
+margin-top: 10px;
+margin-right:10px;
+}
+.box11{
+    background-color: white;
+    width:26%;
+height: 200px;
+float: left;
+margin-top: 10px;
+margin-right:10px;
+}
+.box12{
+    background-color: white;
+    width:26%;
+height: 200px;
+float: left;
+margin-top: 10px;
+margin-right:10px;
+}
+.box13{
+    background-color: white;
+    width:26%;
+height: 200px;
+float: left;
+margin-bottom: 10px;
+margin-right:10px;
+}
+.box14{
+    background-color: white;
+    width:26%;
+height: 75px;
+float: left;
+margin-top: 10px;
+margin-right:10px;
+}
+.box15{
+    background-color: white;
+    width:26%;
+height: 75px;
+float: left;
+margin-top: 10px;
+margin-right:10px;
+}
+.box16{
+    background-color: white;
+    width:26%;
+height: 75px;
+float: left;
+margin-top: 10px;
+margin-right:10px;
+}
+.box17{
+    background-color: white;
+    width:26%;
+height: 200px;
+float: left;
+margin-top: 20px;
+margin-right:10px;
+}
+.box18{
+    background-color: white;
+    width:26%;
+height: 200px; 
+margin-top: 10px;
+margin-right:10px;
+padding-left: 20%;
+}.box19{
+    background-color: white;
+    width:20%;
+height: 200px;
+}
